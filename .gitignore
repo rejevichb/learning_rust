@@ -1,0 +1,14 @@
+/target
+**/*.rs.bk
+
+
+learning_rust.iml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
+
+
+
+Cargo.lock
+
